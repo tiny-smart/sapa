@@ -45,7 +45,7 @@ python setup.py develop
 | SAPA-B       | R50      | +0.1   | 41.47     | 28.27     |
 | SAPA-D       | R50      | +0.1   | **42.60** | **28.97** |
 | Bilinear     | R101     | 85.5   | 43.33     | 30.21     |
-| SAPA-D       | R50      | +0.1   | **44.31** | **31.47** |
+| SAPA-D       | R101      | +0.1   | **44.31** | **31.47** |
 
 #### Object detection on COCO
 | Faster R-CNN | Backbone | Params | $AP$     | $AP_{50}$ | $AP_{75}$ | $AP_S$   | $AP_M$   | $AP_{L}$ |
